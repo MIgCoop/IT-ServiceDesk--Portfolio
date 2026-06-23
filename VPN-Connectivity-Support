@@ -1,1 +1,35 @@
+# VPN Connectivity Support
 
+## Overview
+
+VPN connectivity issues can prevent users from accessing company resources while working remotely. This project demonstrates a structured approach to identifying and resolving common VPN connection problems.
+
+## Scenario
+
+A user reported that they were unable to connect to the company's VPN while working from home. The user received a connection error and could not access company systems.
+
+## My Approach
+
+1. Verified the user had an active internet connection.
+2. Confirmed the user's VPN credentials were correct.
+3. Checked for any VPN service outages or maintenance notifications.
+4. Restarted the VPN application and computer.
+5. Verified the VPN client was up to date.
+6. Reviewed network settings and firewall configurations.
+7. Tested the VPN connection after completing troubleshooting steps.
+
+## Resolution
+
+The issue was caused by an outdated VPN client. After updating th4e software and restarting the application, the user was able to connect successfully and access company resources.
+
+## Skills Demonstrated
+
+- Technical Troubleshooting
+- VPN Support
+- Network Connectivity
+- Problem Solving
+- Customer Service
+- Documentation
+
+## Main Takeaway
+This project highlights the importance of following a step-by-step troubleshooting process when resolving connectivity issues. Verifying basic network functionality and software updates can often resolve VPN problems quickly and minimize downtime for users.
