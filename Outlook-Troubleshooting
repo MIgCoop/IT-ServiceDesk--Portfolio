@@ -1,1 +1,35 @@
+# Outlook Troubleshooting
 
+## Overview
+
+Microsoft Outlook is a critical communication tool used for email, calendars, and meetings. When Outlook experiences issues, it can impact productivity and communication. This project demonstrates a structured approach to diagnosing and resolving common Outlook problems.
+
+## Scenario
+
+A user reported that Outlook would open briefly and then close immediately. The user was unable to access email, calendars, or contacts.
+
+## My Approach
+
+1. Gathered information about the issue and recent changes to the system.
+2. Verified the Outlook and Microsoft Office were properly installed.
+3. Opened Outlook in Safe Mode to determine if add-ins were causing the issue.
+4. Disabled unnecessary add-ins and restarted Outlook.
+5. Checked for available Microsoft Office updates.
+6. Performed an Office repair.
+7. Tested Outlook functionality after troubleshooting steps were completed.
+
+## Resolution
+
+The issue was caused by a faulty Outlook add-in. After disabling the add-in and repairing the Office installation, Outlook opened successfully and functioned normally.
+
+## Skills Demonstrated
+- Technical Troubleshooting
+- Application Support
+- Microsoft Office Support
+- Problem Solving
+- Customer Service
+- Documentation
+
+## Main Takeaway
+
+This project highlights the importance of isolating potential causes and testing solutions systematically. Using Safe Mode and reviewing add-ins can quickly identify common Outlook issues and reduce downtime for users.
